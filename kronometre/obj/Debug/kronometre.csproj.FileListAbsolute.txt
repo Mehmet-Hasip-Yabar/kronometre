@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\kronometre\kronometre\bin\Debug\kronometre.exe.config
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\kronometre\kronometre\bin\Debug\kronometre.exe
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\kronometre\kronometre\bin\Debug\kronometre.pdb
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\kronometre\kronometre\obj\Debug\kronometre.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\kronometre\kronometre\obj\Debug\kronometre.Form1.resources
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\kronometre\kronometre\obj\Debug\kronometre.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\kronometre\kronometre\obj\Debug\kronometre.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\kronometre\kronometre\obj\Debug\kronometre.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\kronometre\kronometre\obj\Debug\kronometre.exe
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\kronometre\kronometre\obj\Debug\kronometre.pdb
